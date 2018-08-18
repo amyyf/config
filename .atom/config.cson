@@ -1,0 +1,19 @@
+"*":
+  autosave:
+    enabled: true
+  core:
+    telemetryConsent: "limited"
+  editor:
+    autoIndentOnPaste: false
+    softWrap: true
+  "exception-reporting":
+    userId: "87689daf-0a5d-49ca-b72d-0e04037fae85"
+  linter: {}
+  "linter-js-standard":
+    showEslintRules: true
+    style: "semistandard"
+  "linter-ui-default": {}
+  "markdown-preview":
+    breakOnSingleNewline: true
+  welcome:
+    showOnStartup: false
